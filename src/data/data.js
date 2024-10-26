@@ -1,8 +1,4 @@
-import WorkIm from '../assets/projects/workImg.jpeg'
-import RealEst from '../assets/projects/realestate.jpg'
-import Askout from '../assets/projects/askout.jpg'
-import Rps from '../assets/projects/rps.jpg'
-import EtchASketch from '../assets/projects/etch-a-sketch.jpg'
+
 import zap from '../assets/zappage.png'
 
 export const data=[
