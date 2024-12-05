@@ -39,11 +39,11 @@ const Navbar = () => {
             Skills
           </Link>
         </li>
-        {/* <li>
+        <li>
           <Link to='work' smooth={true} duration={500}>
             Work
           </Link>
-        </li> */}
+        </li>
       </ul>
 
       {/* Hamburger */}
@@ -76,12 +76,12 @@ const Navbar = () => {
             Skills
           </Link>
         </li>
-        {/* <li className='py-6 text-4xl'>
+        <li className='py-6 text-4xl'>
           {' '}
           <Link onClick={handleClick} to='work' smooth={true} duration={500}>
             Work
           </Link>
-        </li> */}
+        </li>
       </ul>
 
       {/* Social icons */}
@@ -90,7 +90,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://www.linkedin.com/in/poojitha-komakula-688b4a291/' target='_blank'
+              href='https://www.linkedin.com/in/rajkumar200312' target='_blank'
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -98,7 +98,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://github.com/Komakula-pooja' target='_blank'
+              href='https://github.com/rajkumar2003-12' target='_blank'
             >
               Github <FaGithub size={30} />
             </a>
@@ -107,7 +107,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://1drv.ms/w/s!AoBgC7ML6Mhpic1UNCCXHDzE1-TeHw?e=qHf9ZK' target='_blank'
+              href='https://drive.google.com/file/d/1_PkhJe4KgaIykNGxlY2W27aE9oM8d2pO/view?usp=drivesdk' target='_blank'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
