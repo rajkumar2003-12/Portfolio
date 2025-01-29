@@ -1,6 +1,6 @@
 
 import zap from '../assets/zappage.png'
-import matrimony from "../assets/matrimony.png"
+import matrimony from '../assets/matrimony.png'
 
 export const data1=[
     {
