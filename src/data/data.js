@@ -22,12 +22,12 @@ export const data2=[
     },
 ]
 
-export const data3=[
-    {
-        id:1,
-        name:"Fullstack - Matrimony web application",
-        image:matrimony,
-        github:"https://github.com/rajkumar2003-12",
-        live:"https://saptjanm-matrimony.vercel.app/",
-    },
-]
+// export const data3=[
+//     {
+//         id:1,
+//         name:"Fullstack - Matrimony web application",
+//         image:matrimony,
+//         github:"https://github.com/rajkumar2003-12",
+//         live:"https://saptjanm-matrimony.vercel.app/",
+//     },
+// ]
