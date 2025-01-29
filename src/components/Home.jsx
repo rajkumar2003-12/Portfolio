@@ -1,8 +1,8 @@
 import React from 'react';
 import { HiArrowNarrowRight } from 'react-icons/hi';
-import { HiOutlineMail } from 'react-icons/hi';
-import { BsFillPersonLinesFill } from 'react-icons/bs';
-import Logo from '../assets/logo.png';
+// import { HiOutlineMail } from 'react-icons/hi';
+// import { BsFillPersonLinesFill } from 'react-icons/bs';
+// import Logo from '../assets/logo.png';
 import { Link } from 'react-scroll';
 
 const Home = () => {
